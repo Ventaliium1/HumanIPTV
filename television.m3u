@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0,PLAYLIST 1
+https://iptv-russia.ru/list/ru-all.m3u
+#EXTINF:0,PLAYLIST 2
+http://tv-smart-tv.ru/iptv/RussiaIPTV.m3u
+#EXTINF:0,PLAYLIST 3
+https://iptvmaster.ru/belarus.m3u
+#EXTINF:0,PLAYLIST 4
+https://iptvmaster.ru/august.m3u
+#EXTINF:0,PLAYLIST 5
+https://iptvmaster.ru/russia.m3u
